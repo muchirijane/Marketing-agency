@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/main.536047ef.chunk.js",
-    "main.js.map": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/main.536047ef.chunk.js.map",
+    "main.js": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/main.9824e6cc.chunk.js",
+    "main.js.map": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/main.9824e6cc.chunk.js.map",
     "runtime-main.js": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/runtime-main.f5cb4daf.js",
     "runtime-main.js.map": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/runtime-main.f5cb4daf.js.map",
-    "static/js/2.cb7699f2.chunk.js": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.cb7699f2.chunk.js",
-    "static/js/2.cb7699f2.chunk.js.map": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.cb7699f2.chunk.js.map",
+    "static/js/2.e4a8c0af.chunk.js": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.e4a8c0af.chunk.js",
+    "static/js/2.e4a8c0af.chunk.js.map": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.e4a8c0af.chunk.js.map",
     "index.html": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/index.html",
-    "static/js/2.cb7699f2.chunk.js.LICENSE.txt": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.cb7699f2.chunk.js.LICENSE.txt",
+    "static/js/2.e4a8c0af.chunk.js.LICENSE.txt": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/js/2.e4a8c0af.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/media/profile.8a701d40.jpg",
     "static/media/svg-1.svg": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/media/svg-1.c9c88a21.svg",
     "static/media/svg-2.svg": "/muchirijane/https://github.com/muchirijane/react-website-styled-components-v1.git/static/media/svg-2.882a2cd5.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f5cb4daf.js",
-    "static/js/2.cb7699f2.chunk.js",
-    "static/js/main.536047ef.chunk.js"
+    "static/js/2.e4a8c0af.chunk.js",
+    "static/js/main.9824e6cc.chunk.js"
   ]
 }
